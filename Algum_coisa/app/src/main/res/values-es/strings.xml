@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto_AppI</string>
+    <string name="iniciar_sessao">Iniciar Sesión</string>
+    <string name="criar_conta">Crea una cuenta</string>
+    <string name="input_email"/>
+    <string name="conecte"/>
+    <string name="conecte_se"/>
+    <string name="log_in"/>
+</resources>
